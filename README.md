@@ -14,9 +14,10 @@ An education company named X Education sells online courses to industry professi
 - Prediction on test set
 
 ## Details of files given
-- Lead Score Case Study.ipynb : The python file showing coding and data analysis
-- Lead Score Case Study.pdf : Final Presentation
+- Lead Scoring Case Study.ipynb : The python file showing coding and data analysis
+- Lead Scoring Case Study.pdf : Final Presentation
 - Leads.csv : Data worked on
-- Leads Data Dictionary.xlsx : Data Dictionary
+- Summary Report Lead Scoring Case Study.pdf -Summary report
+- README.md
 - Assignment Subjective Questions.pdf : Some subjective questions answered# ML-1-Lead-Scoring-
 To build a logistic regression model to assign the score between 0 and 100 to each of the leads which can be used by the company to target potential leads. Also, as per future requirement changes, we need to handle these as well. 
